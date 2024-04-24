@@ -1,0 +1,6 @@
+{
+  "name": "expo-supported-locales",
+  "version": "1.0.0",
+  "description": "Enable your Expo project to declare supported locales, allowing seamless per-app language switching through system settings",
+  "main": "index.js"
+}
